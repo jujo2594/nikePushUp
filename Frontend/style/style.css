@@ -1,0 +1,15 @@
+*{
+    overflow: hidden;
+}
+
+.main-title{
+    font-family: 'Dhurjati', sans-serif;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.aside-bar{
+    width: 20vw;
+    height: 100vh;
+    background-color: #adb5bd;
+}
